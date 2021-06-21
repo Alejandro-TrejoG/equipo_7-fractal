@@ -1,0 +1,10 @@
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\bin\Debug\ConjuntoMandelbrot.exe.config
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\bin\Debug\ConjuntoMandelbrot.exe
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\bin\Debug\ConjuntoMandelbrot.pdb
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.Form1.resources
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.exe
+C:\Users\Alejandro\source\repos\ConjuntoMandelbrot\ConjuntoMandelbrot\obj\Debug\ConjuntoMandelbrot.pdb
